@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

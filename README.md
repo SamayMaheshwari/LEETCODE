@@ -64,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->

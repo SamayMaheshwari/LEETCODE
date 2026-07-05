@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->

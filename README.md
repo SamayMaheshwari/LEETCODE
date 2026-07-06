@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3643-flip-square-submatrix-vertically) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->

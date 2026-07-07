@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search

@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |

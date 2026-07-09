@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

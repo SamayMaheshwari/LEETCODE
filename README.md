@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |

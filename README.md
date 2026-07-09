@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

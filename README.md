@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
 ## Hash Table
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0223-rectangle-area) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

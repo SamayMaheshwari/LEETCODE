@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0029-divide-two-integers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0401-binary-watch) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |

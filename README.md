@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |

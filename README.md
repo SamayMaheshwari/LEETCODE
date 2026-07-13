@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

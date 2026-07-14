@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree

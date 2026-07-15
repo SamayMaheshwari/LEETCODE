@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0205-isomorphic-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

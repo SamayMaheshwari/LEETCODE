@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1518-water-bottles) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -315,4 +321,9 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

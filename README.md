@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |

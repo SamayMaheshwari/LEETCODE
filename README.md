@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0142-linked-list-cycle-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -366,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->

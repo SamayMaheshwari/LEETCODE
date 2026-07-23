@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

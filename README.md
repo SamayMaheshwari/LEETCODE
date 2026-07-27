@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0097-interleaving-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |

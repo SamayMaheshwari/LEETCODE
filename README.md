@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

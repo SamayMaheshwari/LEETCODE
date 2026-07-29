@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Heap (Priority Queue)

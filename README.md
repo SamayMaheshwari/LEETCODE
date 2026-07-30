@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |

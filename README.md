@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0204-count-primes](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0303-range-sum-query-immutable) |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0118-pascals-triangle](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0303-range-sum-query-immutable](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1518-water-bottles) |
@@ -447,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

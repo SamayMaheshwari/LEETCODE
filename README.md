@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0680-valid-palindrome-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -474,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

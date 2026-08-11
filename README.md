@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0877-stone-game) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0011-container-with-most-water](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

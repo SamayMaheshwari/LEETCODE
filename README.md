@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0486-predict-the-winner](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0877-stone-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0877-stone-game) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0661-image-smoother](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0661-image-smoother) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |

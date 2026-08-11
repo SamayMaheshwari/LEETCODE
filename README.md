@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0661-image-smoother](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
+| [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1518-water-bottles) |
 | [3838-weighted-word-mapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3838-weighted-word-mapping) |

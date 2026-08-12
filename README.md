@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0771-jewels-and-stones](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Design
 |  |
 | ------- |

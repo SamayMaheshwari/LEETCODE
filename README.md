@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1154-day-of-the-year](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Reservoir Sampling
 |  |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

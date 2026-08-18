@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0877-stone-game) |
+| [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0697-degree-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1563-stone-game-v) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0771-jewels-and-stones](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

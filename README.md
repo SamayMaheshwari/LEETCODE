@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3875-construct-uniform-parity-array-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3312-sorted-gcd-pair-queries](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |

@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1140-stone-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1518-water-bottles) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0223-rectangle-area](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Stack
 |  |
 | ------- |

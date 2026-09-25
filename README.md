@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0796-rotate-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0645-set-mismatch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0748-shortest-completing-word](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0226-invert-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0095-unique-binary-search-trees-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -584,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |

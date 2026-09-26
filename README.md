@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1154-day-of-the-year](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1386-cinema-seat-allocation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

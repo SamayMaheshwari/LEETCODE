@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0097-interleaving-string) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

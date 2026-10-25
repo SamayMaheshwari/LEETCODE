@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0888-fair-candy-swap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1140-stone-game-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0404-sum-of-left-leaves](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SamayMaheshwari/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SamayMaheshwari/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0661-image-smoother](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/SamayMaheshwari/LEETCODE/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SamayMaheshwari/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
